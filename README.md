@@ -1,4 +1,4 @@
-# XOR Neural Network Project
+# Neural Network From Scratch Project
 
 This project implements a neural network from scratch to solve the XOR problem. The XOR problem is a classic benchmark for evaluating the capabilities of a neural network, as it is not linearly separable. The implementation uses fundamental concepts of forward and backward propagation without relying on any deep learning frameworks.
 
